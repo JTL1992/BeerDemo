@@ -1,0 +1,93 @@
+/*
+ul.menu {
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFF;
+  }
+
+  li {
+    float: right;
+    border-right: 1px solid #BBB;
+  }
+
+  li:first-child {
+  border-right: none;
+  }
+
+  li a {
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover{
+    background-color: darken(#FFF, 10%);
+    color: #333;
+    text-decoration: none;
+  }
+}
+*/
+
+
+/*header.main-header {
+  padding: 0px;
+  color: #fff;
+  background: #303941;
+  margin-bottom: 20px;
+
+  h1 {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 0px;
+    font-family: Roboto Condensed;
+    text-shadow: 3px 0px 2px rgba(150, 150, 150, 0.53);
+    a {
+      color: #FFFFFF;
+      text-decoration: none;
+      &:hover {
+        color: darken(#FFFFFF, 5%);
+      }
+    }
+  }
+
+  p {
+    font-size: 30px;
+    font-family: Tahoma;
+  }
+
+  a.button {
+    color: #FFFFFF;
+    &:focus {
+      color: inherit;
+    }
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
+  a.add-job {
+    background: #E74C3C;
+    border: darken(#E74C3C, 20%);
+    margin-right: 10px;
+    &:hover {
+      background: darken(#E74C3C, 10%);
+      color: inherit;
+    }
+  }
+
+  a.browse-jobs {
+    background: #1ABC9C;
+    border: darken(#1ABC9C, 20%);
+    margin-left: 10px;
+    &:hover {
+      background: darken(#1ABC9C, 10%);
+      color: inherit;
+    }
+  }
+}*/
